@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-wide.png" alt="GerbDiff" width="500">
+  <img src="assets/logo.svg" alt="GerbDiff" width="300">
 </p>
 
 <h3 align="center">Visual diff tool for Gerber PCB files</h3>
