@@ -15,6 +15,9 @@
 
 ---
 
+## Example Diff
+<img src="assets/ex.png">
+
 ## Features
 
 - **Side-by-side & overlay views** — compare two Gerber projects with color-coded layers
