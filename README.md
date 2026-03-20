@@ -33,7 +33,7 @@
 ## Getting Started
 
 1. **Download** the latest installer from the [Releases](https://github.com/woodruffrb/gerbdiff-releases/releases/latest) page
-2. **Run** the installer (`GerbDiff Setup 1.0.0.exe`) — Windows x64
+2. **Run** the installer (`GerbDiff Setup 1.0.1.exe`) — Windows x64
 3. **Import** two Gerber project folders (drag & drop or File > Import)
 4. **Compare** — switch between Side-by-Side and Overlay views, navigate changes
 
